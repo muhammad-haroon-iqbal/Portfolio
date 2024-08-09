@@ -45,7 +45,7 @@ const Portfolio = () => {
                                     <p className='px-2 text-gray-700'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum, molestiae?</p>
                                 </div>
                                 <div className='flex justify-around py-2'>
-                                    <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded'>Video</button>
+                                    {/* <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded'>Video</button> */}
                                     <button className='bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded'>Source Code</button>
                                 </div>
                             </div>

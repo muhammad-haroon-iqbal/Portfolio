@@ -5,6 +5,7 @@ import bootstrap from '../../public/bootstrap.png'
 import tailwind from '../../public/ta.webp'
 import js from '../../public/js.png'
 import react from '../../public/React.webp'
+import wordpress from '../../public/wordpress.png'
 
 const Experience = () => {
     const cardItem = [
@@ -40,6 +41,12 @@ const Experience = () => {
             id: 6,
             logo: react,
             name: "React JS"
+
+        },
+        {
+            id: 7,
+            logo: wordpress,
+            name: "WordPress"
 
         },
 
